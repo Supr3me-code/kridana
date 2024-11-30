@@ -22,7 +22,7 @@
 
 - **Frontend**: React Native
 - **Backend**: Node.js, Express
-- **Database**: MongoDB
+- **Database**: Postgresql
 - **APIs**: GraphQL
 - **Deployment**: AWS
 

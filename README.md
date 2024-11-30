@@ -1,10 +1,10 @@
-# Kridana
+# Krīḍana
 
 <p align="center">
   <img src="./assets/kridana-logo.png" alt="Kridana Logo" width="300"/>
 </p>
 
-**Kridana** is a sports-focused app designed to simplify and enhance your sports experience. Whether you're looking to connect with players, book arenas, join tournaments, or manage equipment rentals, Kridana brings everything together in one convenient platform.
+**Krīḍana** is a sports-focused app designed to simplify and enhance your sports experience. Whether you're looking to connect with players, book arenas, join tournaments, or manage equipment rentals, Kridana brings everything together in one convenient platform.
 
 ---
 
